@@ -1,8 +1,8 @@
 ## Hi there, I'm Surya Pratap Singh!
-🎓 Final-year B.Tech student in CSE (AI & Data Science)
-🤖 I build various ML predictive models and enjoy experimenting with data
-🌐 Currently learning Web Development (HTML, CSS, JavaScript, React)
-💡 Passionate about solving real-world problems using tech
+🎓 Final-year B.Tech student in CSE (AI & Data Science) <br/>
+💻 MERN Full Stack Developer with hands-on experience in building responsive web applications <br/>
+🤖 Worked on Machine Learning projects including predictive modeling and data-driven solutions <br/>
+🌐 Passionate about combining AI and Full Stack Development to solve real-world challenges <br/>
 
 
 ## 🌐 Socials:
