@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking🎓 Final-year B.Tech student in Computer Science (AI & Data Science) with a strong focus on Full-Stack Web Development<br>💻 MERN Full Stack Developer skilled in building responsive, scalable applications using React, Tailwind CSS, Node.js, Express, and MongoDB<br>🛠️ Experienced in designing RESTful APIs, implementing JWT-based authentication, real-time features with Socket.IO, and cloud-based media handling<br>🌐 Built production-ready full-stack projects including a job portal, real-time chat platform, and a gamified e-learning system with emphasis on performance and user experience to collaborate on<br>
+🎓 Final-year B.Tech student in Computer Science (AI & Data Science) with a strong focus on Full-Stack Web Development<br>💻 MERN Full Stack Developer skilled in building responsive, scalable applications using React, Tailwind CSS, Node.js, Express, and MongoDB<br>🛠️ Experienced in designing RESTful APIs, implementing JWT-based authentication, real-time features with Socket.IO, and cloud-based media handling<br>🌐 Built production-ready full-stack projects including a job portal, real-time chat platform, and a gamified e-learning system with emphasis on performance and user experience to collaborate on<br>
 
 
 ## 🌐 Socials:
